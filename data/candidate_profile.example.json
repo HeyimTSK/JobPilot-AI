@@ -1,0 +1,72 @@
+{
+  "full_name": "Alex Morgan",
+  "preferred_name": "Alex",
+  "contact": {
+    "email": "alex.morgan@example.com",
+    "phone": "+1-555-010-2048",
+    "location": "Example City, Example State",
+    "linkedin_url": "https://www.linkedin.com/in/alex-morgan-example",
+    "github_url": "https://github.com/alex-morgan-example",
+    "portfolio_url": "https://alex-morgan.example.com"
+  },
+  "current_title": "Software Engineer",
+  "professional_summary": "Fictional software engineer focused on reliable web applications and developer tooling.",
+  "years_of_experience": 4.5,
+  "skills": {
+    "languages": ["Python", "TypeScript", "SQL"],
+    "frameworks": ["FastAPI", "React"],
+    "tools": ["Git", "Docker"]
+  },
+  "education": [
+    {
+      "institution": "Example Institute of Technology",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "start_date": "2015-08",
+      "end_date": "2019-05",
+      "cgpa": "3.8/4.0",
+      "description": "Fictional degree program with coursework in software engineering."
+    }
+  ],
+  "experience": [
+    {
+      "company": "Example Systems",
+      "role": "Software Engineer",
+      "employment_type": "Full-time",
+      "location": "Remote",
+      "start_date": "2022-01",
+      "is_current": true,
+      "responsibilities": ["Develop and maintain backend services.", "Review code and support team delivery."],
+      "achievements": ["Improved API response times in a fictional internal service."],
+      "technologies": ["Python", "FastAPI", "PostgreSQL"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Example Planner",
+      "description": "A fictional task-planning web application.",
+      "technologies": ["TypeScript", "React", "Python"],
+      "repository_url": "https://github.com/alex-morgan-example/example-planner",
+      "live_url": "https://example-planner.example.com",
+      "responsibilities": ["Designed the application data model."],
+      "achievements": ["Created an accessible, responsive fictional interface."]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Example Cloud Fundamentals",
+      "issuer": "Example Cloud Academy",
+      "issue_date": "2023-06",
+      "credential_id": "EXAMPLE-12345",
+      "credential_url": "https://credentials.example.com/EXAMPLE-12345"
+    }
+  ],
+  "job_preferences": {
+    "target_roles": ["Software Engineer", "Backend Engineer"],
+    "preferred_locations": ["Remote", "Example City"],
+    "remote_preference": "Remote or hybrid",
+    "employment_types": ["Full-time"],
+    "minimum_salary": "USD 100,000",
+    "experience_level": "Mid-level"
+  }
+}

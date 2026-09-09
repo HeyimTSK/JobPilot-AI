@@ -11,6 +11,9 @@ resumes/generated/*
 !resumes/generated/.gitkeep
 data/*
 !data/.gitkeep
+!data/candidate_profile.example.json
 .idea/
 .vscode/
 .DS_Store
+.pytest_cache/
+.test_temp*
