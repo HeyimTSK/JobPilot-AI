@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.db
+.env
+.venv/
+venv/
+logs/*.log
+screenshots/*
+!screenshots/.gitkeep
+resumes/generated/*
+!resumes/generated/.gitkeep
+data/*
+!data/.gitkeep
+.idea/
+.vscode/
+.DS_Store

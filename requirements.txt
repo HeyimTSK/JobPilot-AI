@@ -1,0 +1,6 @@
+sqlalchemy
+pydantic
+python-dotenv
+pytest
+pytest-cov
+playwright

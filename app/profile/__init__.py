@@ -1,0 +1,1 @@
+"""Verified candidate profile domain."""
