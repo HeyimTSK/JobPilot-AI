@@ -1,0 +1,21 @@
+{
+  "job_title": "Backend Software Engineer",
+  "company_name": "Example Systems",
+  "job_url": "https://careers.example.com/jobs/backend-software-engineer",
+  "source": "example_company_careers",
+  "source_job_id": "EXAMPLE-2026-001",
+  "location": "Example City, Example State",
+  "remote_status": "hybrid",
+  "employment_type": "full_time",
+  "experience_level": "mid_level",
+  "salary_min": "100000",
+  "salary_max": "125000",
+  "salary_currency": "USD",
+  "description": "A fictional role building reliable backend services for an example product.",
+  "required_skills": ["Python", "SQL", "API design"],
+  "preferred_skills": ["FastAPI", "Docker"],
+  "application_url": "https://careers.example.com/jobs/backend-software-engineer/apply",
+  "application_deadline": "2026-12-31",
+  "posted_at": "2026-09-01",
+  "status": "discovered"
+}

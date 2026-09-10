@@ -1,6 +1,10 @@
 __pycache__/
 *.py[cod]
 *.db
+data/jobs.db
+data/jobs.db-*
+data/jobs.db-shm
+data/jobs.db-wal
 .env
 .venv/
 venv/
@@ -12,6 +16,7 @@ resumes/generated/*
 data/*
 !data/.gitkeep
 !data/candidate_profile.example.json
+!data/job.example.json
 .idea/
 .vscode/
 .DS_Store
