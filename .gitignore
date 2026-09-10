@@ -17,6 +17,7 @@ data/*
 !data/.gitkeep
 !data/candidate_profile.example.json
 !data/job.example.json
+!data/master_resume.example.json
 .idea/
 .vscode/
 .DS_Store

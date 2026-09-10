@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "candidate_name": "Jordan Example",
+  "contact": {
+    "name": "Jordan Example",
+    "email": "jordan@example.com",
+    "phone": "+1-555-010-1234",
+    "location": "Example City",
+    "linkedin_url": "https://www.linkedin.com/in/jordan-example",
+    "github_url": "https://github.com/jordan-example",
+    "portfolio_url": "https://jordan-example.example.com"
+  },
+  "headline": "Software Engineer",
+  "professional_summary": "Fictional software engineer focused on reliable web services and developer tooling.",
+  "skills": {
+    "languages": ["Python", "TypeScript", "SQL"],
+    "frameworks": ["FastAPI", "React"],
+    "tools": ["Git", "Docker"]
+  },
+  "experience": [{
+    "company": "Example Systems",
+    "role": "Software Engineer",
+    "location": "Remote",
+    "start_date": "2022-01",
+    "current": true,
+    "bullets": ["Develop and maintain fictional backend services."],
+    "technologies": ["Python", "FastAPI", "PostgreSQL"]
+  }],
+  "education": [{
+    "institution": "Example Institute",
+    "degree": "Bachelor of Science",
+    "field_of_study": "Computer Science",
+    "start_date": "2015-08",
+    "end_date": "2019-05",
+    "details": ["Fictional software engineering coursework."]
+  }],
+  "projects": [{
+    "name": "Example Planner",
+    "description": "A fictional task-planning web application.",
+    "technologies": ["Python", "React"],
+    "url": "https://github.com/jordan-example/example-planner",
+    "bullets": ["Designed the fictional application data model."]
+  }],
+  "certifications": [{
+    "name": "Example Cloud Fundamentals",
+    "issuer": "Example Cloud Academy",
+    "issue_date": "2023-06",
+    "credential_id": "EXAMPLE-123"
+  }],
+  "achievements": [{
+    "title": "Example Engineering Recognition",
+    "description": "Recognized for a fictional internal tooling improvement.",
+    "date": "2023-10",
+    "issuer": "Example Systems"
+  }]
+}
